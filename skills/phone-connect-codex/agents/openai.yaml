@@ -1,0 +1,4 @@
+interface:
+  display_name: "手机镜像"
+  short_description: "在 Mac 或 Windows 镜像安卓手机或 iPhone"
+  default_prompt: "使用 $phone-connect-codex 帮我接入与操作手机。"
